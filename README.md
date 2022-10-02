@@ -8,7 +8,7 @@
 ![Dance of Irradiance Banner](https://user-images.githubusercontent.com/26402139/193454052-d717c023-575e-48e2-9e11-3fb1df3b892e.png)
 
 **<ins>Project Summary:<ins>**
-Dance of Irradiance is an HTML5 game designed to creatively display solar irradiance and magnetic field data from the SDO Space Craft and Parker Solar Probe, respectively. It uses the Phaser open source framework to make a Canvas and WebGL powered game that will run in a browser. 
+Dance of Irradiance is an JavaScript/HTML5 game designed to creatively display solar irradiance and magnetic field data from the SDO Space Craft and Parker Solar Probe, respectively. It uses the Phaser open source framework to make a Canvas and WebGL powered game that will run in a browser. 
 
 In this game you will be helping our astronaut friend on a perilous mission near the surface of the sun! Your objective is to clean up as much space debris orbiting the sun as possible. Collecting space debris in the danger zone will award 30 points per piece of debris, while collecting space debris elsewhere will award 10 points per piece of debris.
 
